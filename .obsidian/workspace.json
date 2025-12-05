@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML Lecture 2.md",
+                "file": "ML Lecture 3 Part II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ML Lecture 2"
+              "title": "ML Lecture 3 Part II"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML Lecture 2.md",
+                "file": "ML Lecture 3 Part II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "ML Lecture 2 的反向链接列表"
+              "title": "ML Lecture 3 Part II 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML Lecture 2.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "ML Lecture 2 的出链列表"
+              "title": "README 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML Lecture 2.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ML Lecture 2 的大纲"
+              "title": "README 的大纲"
             }
           }
         ]
@@ -183,22 +183,24 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "0dd6f021b8f9e390",
+  "active": "b6bb7905c7499dca",
   "lastOpenFiles": [
-    "ML Lecture 3.md",
-    "ML Lecture 2.md",
+    "ML Lecture 3 Part I.md",
+    "ML Lecture 3 Part II.md",
     "AI Lecture 4.md",
+    "ML Lecture 2.md",
+    "README.md",
+    "Assets/Pasted image 20251205162540.png",
+    "Assets/Pasted image 20251205162347.png",
+    "Assets/Pasted image 20251205162111.png",
+    "Assets/Pasted image 20251205162034.png",
+    "Assets/Pasted image 20251205160037.png",
+    "Assets/Pasted image 20251205155758.png",
+    "Assets/Pasted image 20251205155402.png",
+    "Assets/Pasted image 20251205154957.png",
     "AI Lecture 3.md",
-    "Assets/Pasted image 20251204153246.png",
-    "Assets/Pasted image 20251204153139.png",
-    "Assets/Pasted image 20251204152538.png",
-    "Assets/Pasted image 20251204152251.png",
-    "Assets/Pasted image 20251204145311.png",
-    "Assets/Pasted image 20251204144705.png",
-    "Assets/Pasted image 20251204144136.png",
-    "Assets/Pasted image 20251204143636.png",
-    "Assets/Pasted image 20251204143625.png",
-    "Assets/Pasted image 20251204142527.png",
+    "Assets/Pasted image 20251205153130.png",
+    "Assets/Pasted image 20251205152744.png",
     "Assets"
   ]
 }

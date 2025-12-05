@@ -2,8 +2,8 @@
 Popular optimization problem: TSP / QAP / knapsack
 #### Objectives & Constraints
 e.g.
-$$min\{ f(x) \}  = - (x-1)^2\ for -3 \leq x \leq 3$$(Objective Function)
-$$s.t. \ g(x) = x -1.5 \geq 0$$
+$\min\{ f(x) \}  = - (x-1)^2 \text{ for } -3 \leq x \leq 3$ (Objective Function)
+$s.t.\ g(x) = x -1.5 \geq 0$
 (Constraint)
 
 - Feasible Space: the feasible space refers to the set of all possible solutions that satisfy a given set of constraints.
@@ -39,9 +39,13 @@ $x$ dominates / 支配 $y$
 #### Global & Local Optimization
 ##### Global Optimal Solution
 优化问题：
-$${max}_{x \in \Omega}$$
+$$
+\max_{x \in \Omega}
+$$
 若$\exists x^* \in \Omega$，满足：
-$$$f(x) \leq f(x^*) \ \ \forall x \in \Omega$$
+$$
+f(x) \leq f(x^*) \ \ \forall x \in \Omega
+$$
 则$x^*$是Global Maximal Solution。
 
 **一个优化问题可能有多个全局最优解**
