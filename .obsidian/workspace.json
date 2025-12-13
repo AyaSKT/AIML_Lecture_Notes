@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "EC Lecture 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "EC Lecture 2"
             }
           }
         ]
@@ -185,28 +185,28 @@
   },
   "active": "9f8b8215a4437e53",
   "lastOpenFiles": [
-    "EC Lecture 1.md",
-    "EC Lecture 2.md",
-    "EC Lecture 4.md",
-    "EC Lecture 3.md",
     "README.md",
-    "ML Lecture 2.md",
+    "EC Lecture 2.md",
+    "Assets/Pasted image 20251212232737.png",
+    "EC Lecture 1.md",
+    "EC Lecture 4.md",
     "ML Lecture 6.md",
+    "ML Lecture 5.md",
     "ML Lecture 4 Part II.md",
     "ML Lecture 4 Part I.md",
+    "ML Lecture 3 Part II.md",
+    "EC Lecture 3.md",
     "ML Lecture 3 Part I.md",
+    "ML Lecture 2.md",
+    "Assets/Pasted image 20251212225231.png",
+    "Assets/Pasted image 20251212225138.png",
     "Assets/Pasted image 20251212153510.png",
     "Assets/Pasted image 20251212153421.png",
     "Assets/Pasted image 20251212153346.png",
     "Assets/Pasted image 20251212153301.png",
     "Assets/Pasted image 20251212153235.png",
     "Assets/Pasted image 20251212121029.png",
-    "ML Lecture 5.md",
     "Assets/Pasted image 20251212111827.png",
-    "Assets/Pasted image 20251212110505.png",
-    "Assets/Pasted image 20251212110403.png",
-    "Assets/Pasted image 20251211234643.png",
-    "ML Lecture 3 Part II.md",
     "Assets"
   ]
 }
