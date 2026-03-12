@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EC Lecture 2.md",
+                "file": "特征选择vs降维区别.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EC Lecture 2"
+              "title": "特征选择vs降维区别"
             }
           }
         ]
@@ -185,28 +185,40 @@
   },
   "active": "9f8b8215a4437e53",
   "lastOpenFiles": [
+    "特征选择方法对比表.md",
     "README.md",
-    "EC Lecture 2.md",
-    "Assets/Pasted image 20251212232737.png",
-    "EC Lecture 1.md",
+    "EC Lecture 3.md",
     "EC Lecture 4.md",
-    "ML Lecture 6.md",
     "ML Lecture 5.md",
+    "ML Lecture 6.md",
+    "EC Lecture 2.md",
+    "ML Lecture 3 Part I.md",
+    "PCA_LDA_SVD对比表.md",
     "ML Lecture 4 Part II.md",
     "ML Lecture 4 Part I.md",
     "ML Lecture 3 Part II.md",
-    "EC Lecture 3.md",
-    "ML Lecture 3 Part I.md",
+    "EC复习清单.md",
+    "EC Lecture 1.md",
     "ML Lecture 2.md",
+    "UESTC3036_1_Artificial Intelligence & Machine Learning_202312.pdf",
+    "ML情景题.md",
+    "情景题错误总结复习表.md",
+    "复习题集.md",
+    "UESTC3036-UESTCHN3002_1_ARTIFICIAL INTELLIGENCE & MACHINE LEARNING_202412.pdf",
+    "UESTC3036_1_Artificial Intelligence and Machine Learning_202212.pdf",
+    "特征选择vs降维区别.md",
+    "错题本.md",
+    "ML复习清单.md",
+    "Assets/Pasted image 20251213162146.png",
+    "Assets/Pasted image 20251213162135.png",
+    "Assets/Pasted image 20251213154830.png",
+    "Assets/Pasted image 20251212232737.png",
     "Assets/Pasted image 20251212225231.png",
     "Assets/Pasted image 20251212225138.png",
     "Assets/Pasted image 20251212153510.png",
     "Assets/Pasted image 20251212153421.png",
     "Assets/Pasted image 20251212153346.png",
     "Assets/Pasted image 20251212153301.png",
-    "Assets/Pasted image 20251212153235.png",
-    "Assets/Pasted image 20251212121029.png",
-    "Assets/Pasted image 20251212111827.png",
     "Assets"
   ]
 }

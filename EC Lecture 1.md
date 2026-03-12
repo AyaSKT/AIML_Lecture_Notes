@@ -27,6 +27,7 @@ $$
 - **可行解 Feasible solution**：位于可行域中的一个具体解。
 
 一个**优化问题 Optimization problem**的三个基本要素：  
+
 **决策变量 Decision variables、目标函数 Objective functions 与约束 Constraints**。
 
 - 对于**最小化问题 Minimization problem**：目标值越小越好；（若是最大化问题则相反）

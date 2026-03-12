@@ -235,13 +235,13 @@ $$
 
 ## PCA 与 LDA 的区别
 
-| Aspect（方面）            | PCA                                                      | LDA                                                                 |
-|---------------------------|----------------------------------------------------------|----------------------------------------------------------------------|
-| Learning Type（学习类型） | 无监督学习（Unsupervised learning，标签不需要）          | 有监督学习（Supervised learning，需要标签）                         |
-| Optimization Objective（优化目标） | 最大化数据方差，尽可能保留“总体信息量”                  | 最大化类间可分性，使不同类别更加可分（inter-class discrimination） |
-| Dimensionality Reduction Limit（降维维度上限） | 可以降到任意维度（理论上可到 1 维）                       | 最高只能降到 $c-1$ 维（$c$ 为类别数）                               |
-| Application Focus（应用侧重点） | 通用降维、去噪与可视化                                   | 用于特征提取和面向分类任务的降维                                   |
-| Effect（效果）            | 更清晰地展示数据的全局结构                               | 更强的类别分离效果，增强类间区分                                   |
+| Aspect（方面）                             | PCA                                | LDA                                            |
+| -------------------------------------- | ---------------------------------- | ---------------------------------------------- |
+| Learning Type（学习类型）                    | 无监督学习（Unsupervised learning，标签不需要） | 有监督学习（Supervised learning，需要标签）                |
+| Optimization Objective（优化目标）           | 最大化数据方差，尽可能保留“总体信息量”               | 最大化类间可分性，使不同类别更加可分（inter-class discrimination） |
+| Dimensionality Reduction Limit（降维维度上限） | 可以降到任意维度（理论上可到 1 维）                | 最高只能降到 $c-1$ 维（$c$ 为类别数）                       |
+| Application Focus（应用侧重点）               | 通用降维、去噪与可视化                        | 用于特征提取和面向分类任务的降维                               |
+| Effect（效果）                             | 更清晰地展示数据的全局结构                      | 更强的类别分离效果，增强类间区分                               |
 
 
 ## 线性降维：奇异值分解 Singular Value Decomposition, SVD
