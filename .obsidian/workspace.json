@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "特征选择vs降维区别.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "特征选择vs降维区别"
+              "title": "README"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "9f8b8215a4437e53",
   "lastOpenFiles": [
+    "特征选择vs降维区别.md",
     "特征选择方法对比表.md",
     "README.md",
     "EC Lecture 3.md",
@@ -206,7 +207,6 @@
     "复习题集.md",
     "UESTC3036-UESTCHN3002_1_ARTIFICIAL INTELLIGENCE & MACHINE LEARNING_202412.pdf",
     "UESTC3036_1_Artificial Intelligence and Machine Learning_202212.pdf",
-    "特征选择vs降维区别.md",
     "错题本.md",
     "ML复习清单.md",
     "Assets/Pasted image 20251213162146.png",

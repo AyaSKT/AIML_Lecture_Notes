@@ -16,7 +16,7 @@ AIML真是多啊...要复习不过来了...
 - [EC Lecture 1](EC%20Lecture%201.md)
 - [EC Lecture 2](EC%20Lecture%202.md)
 - [EC Lecture 3](EC%20Lecture%203.md)
-- [EC Lecture 4](EC%20Lecture%204.md) ⚠️ 未完成
+- [EC Lecture 4](EC%20Lecture%204.md) 
 
 ### 🤖 Machine Learning Lecture Notes
 
